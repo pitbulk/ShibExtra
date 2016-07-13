@@ -1,0 +1,23 @@
+// 
+// Spanish Language File for ShibExtra Plugin
+//
+
+<!-- language file start -->
+log#:#Log
+debug#:#Depuración
+debug_info#:#Habilitalo para añadir al fichero de log información de depuración. Dicha información incluye un subconjunto de la variable de servidor $_SERVER, información de usuario extraida de $_SERVER e información de usuario de $shibUser.
+log_actions#:#Actions
+sso#:#SSO
+sso_info#:#Habilitalo para añadir al fichero de log información del proceso de 'Single Sign On'.
+slo#:#SLO
+slo_info#:#Habilitalo para añadir al fichero de log información del proceso de 'Single Log Out'.
+jit#:#JIT
+jit_info#:#Habilitalo para añadir al fichero de log información del proceso de provisionamiento 'Just-In-Time' (al vuelo).
+userdata_mode#:#Datos de usuario
+userdata_mode_info#:#Alternativas para identificar al usuario en los logs.
+username_option#:#nombre de usuario
+username_option_info#:# admin
+email_option#:#email
+email_option_info#:# admin@example.com
+username_and_email_option#:nombre de usuario & email
+username_and_email_option_info#:#admin | admin@example.com

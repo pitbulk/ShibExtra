@@ -1,0 +1,23 @@
+// 
+// English Language File for ShibExtra Plugin
+//
+
+<!-- language file start -->
+log#:#Log
+debug#:#Debug
+debug_info#:#Enable it in order to add to the log file debug information. It info includes a subset of $_SERVER data, user data extracted from the $_SERVER and the $shibUser data.
+log_actions#:#Actions
+sso#:#SSO
+sso_info#:#Enable it in order to add to the log file info about the Single Sign On process.
+slo#:#SLO
+slo_info#:#Enable it in order to add to the log file info about the Single Log Out process.
+jit#:#JIT
+jit_info#:#Enable it in order to add to the log file info about the Just-In-Time provisioning process.
+userdata_mode#:#User data
+userdata_mode_info#:#Alternatives to identify the user on the logs.
+username_option#:#username
+username_option_info#:# admin
+email_option#:#email
+email_option_info#:# admin@example.com
+username_and_email_option#:#username & email
+username_and_email_option_info#:#admin | admin@example.com
