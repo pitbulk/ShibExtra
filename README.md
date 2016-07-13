@@ -9,7 +9,7 @@ An ILIAS Shibboleth Authentication extension for adding custom logs.
 5. Choose **Configure** from the **Actions** drop down and configure the plugin.
 
 ### General
-* There are 2 kind of file logs that will be stored at the 
+There are 2 kind of file logs that will be stored at the 
 `logs` folder inside the ilias data folder.
 * saml_info.log Will log the actions (SSO, SLO, JIT)
 * saml_debug_info.log ($_SERVER, Mapped user data, $shibUser)
